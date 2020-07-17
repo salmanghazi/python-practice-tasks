@@ -1,3 +1,3 @@
 # python-practice-tasks
 
-This repo will contain practice codes for python tasks
+This repo contains practice codes for python tasks
